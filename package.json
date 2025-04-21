@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postinstall": "puppeteer install",
     "start": "node index.js"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
