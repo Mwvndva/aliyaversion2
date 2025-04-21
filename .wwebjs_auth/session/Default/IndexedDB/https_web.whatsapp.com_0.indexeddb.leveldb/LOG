@@ -1,0 +1,26 @@
+2025/04/21-12:24:40.468 1f78 Reusing MANIFEST C:\Users\Administrator\Downloads\aliya-health-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/21-12:24:40.477 1f78 Recovering log #167
+2025/04/21-12:24:40.662 1f78 Reusing old log C:\Users\Administrator\Downloads\aliya-health-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000167.log 
+2025/04/21-12:24:47.655 14a0 Level-0 table #173: started
+2025/04/21-12:24:47.705 14a0 Level-0 table #173: 1468326 bytes OK
+2025/04/21-12:24:47.707 14a0 Delete type=0 #167
+2025/04/21-12:24:47.708 14a0 Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/21-12:24:52.615 4598 Compacting 1@1 + 2@2 files
+2025/04/21-12:24:52.839 4598 Generated table #174@1: 65033 keys, 2249064 bytes
+2025/04/21-12:24:53.082 4598 Generated table #175@1: 49229 keys, 1579910 bytes
+2025/04/21-12:24:53.082 4598 Compacted 1@1 + 2@2 files => 3828974 bytes
+2025/04/21-12:24:53.085 4598 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/04/21-12:27:25.698 4204 Level-0 table #177: started
+2025/04/21-12:27:25.744 4204 Level-0 table #177: 1198001 bytes OK
+2025/04/21-12:27:25.746 4204 Delete type=2 #169
+2025/04/21-12:27:25.746 4204 Delete type=2 #170
+2025/04/21-12:27:25.746 4204 Delete type=0 #172
+2025/04/21-12:27:25.746 4204 Delete type=2 #173
+2025/04/21-12:27:25.953 4204 Compacting 1@1 + 2@2 files
+2025/04/21-12:27:26.257 4204 Generated table #178@1: 66403 keys, 2249611 bytes
+2025/04/21-12:27:26.341 4204 Generated table #179@1: 50494 keys, 1690704 bytes
+2025/04/21-12:27:26.341 4204 Compacted 1@1 + 2@2 files => 3940315 bytes
+2025/04/21-12:27:26.343 4204 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/04/21-12:27:26.343 4204 Delete type=2 #174
+2025/04/21-12:27:26.343 4204 Delete type=2 #175
+2025/04/21-12:27:26.343 4204 Delete type=2 #177
