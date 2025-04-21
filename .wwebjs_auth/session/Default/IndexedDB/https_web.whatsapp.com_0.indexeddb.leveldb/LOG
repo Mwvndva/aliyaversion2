@@ -1,15 +1,4 @@
-2025/04/21-18:36:55.490 451c Reusing MANIFEST C:\Users\Administrator\Downloads\aliya-health-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/21-18:36:55.505 451c Recovering log #176
-2025/04/21-18:36:55.515 451c Reusing old log C:\Users\Administrator\Downloads\aliya-health-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000176.log 
-2025/04/21-18:37:00.501 1314 Level-0 table #182: started
-2025/04/21-18:37:00.526 1314 Level-0 table #182: 79451 bytes OK
-2025/04/21-18:37:00.528 1314 Delete type=0 #176
-2025/04/21-18:37:00.529 1314 Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/04/21-18:37:04.067 12d4 Compacting 1@1 + 2@2 files
-2025/04/21-18:37:04.238 12d4 Generated table #183@1: 66613 keys, 2249093 bytes
-2025/04/21-18:37:04.377 12d4 Generated table #184@1: 50495 keys, 1688806 bytes
-2025/04/21-18:37:04.378 12d4 Compacted 1@1 + 2@2 files => 3937899 bytes
-2025/04/21-18:37:04.379 12d4 compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/04/21-18:37:04.379 12d4 Delete type=2 #178
-2025/04/21-18:37:04.379 12d4 Delete type=2 #179
-2025/04/21-18:37:04.380 12d4 Delete type=2 #182
+2025/04/21-20:56:30.232 49d4 Reusing MANIFEST C:\Users\Administrator\Downloads\aliya-health-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/21-20:56:30.233 49d4 Recovering log #181
+2025/04/21-20:56:30.269 49d4 Reusing old log C:\Users\Administrator\Downloads\aliya-health-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000181.log 
+2025/04/21-20:56:35.375 23f4 Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)
